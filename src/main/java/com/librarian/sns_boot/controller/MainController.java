@@ -1,4 +1,4 @@
-package com.librarian.sns_boot;
+package com.librarian.sns_boot.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
